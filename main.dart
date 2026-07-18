@@ -3,6 +3,7 @@ void main() {
     'Bem-vindas e bem-vindos ao projeto!',
     // ===== EDITE A LINHA ABAIXO (a dupla toda edita ESTA mesma linha) =====
     'Fala, galera! Bruno na area.',
+    	'Ola! Aqui e a Ana, bora codar!',
     // =====================================================================
     'Bons commits para todos.',
   ];
